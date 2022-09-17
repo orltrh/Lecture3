@@ -7,7 +7,7 @@ new_answer = answer.lower().strip()
 if 'hello' in new_answer:
     print("$0")
 
-#cehck if answer starts with 'h', print 20
+#check if answer starts with 'h', print 20
 elif 'how you doing?' == new_answer[0]:
     print("$20")
 
